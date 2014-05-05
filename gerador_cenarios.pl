@@ -5,6 +5,7 @@
 % Rosaldo Alves 6309280
 %
 % Gerador automatizado de cenários.
+%
 
 generateContainers(Num,Set) :-
 	Num = 1,
